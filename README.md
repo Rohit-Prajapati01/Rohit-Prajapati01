@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-prajapati01&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-prajapati01" /> </p>
 
-- 🌱 I’m currently learning **Python Full-Stack**
+- 🌱 I’m currently learning **React Development**
 
 - 📫 How to reach me **rohitprajapatii464@gmail.com**
 
